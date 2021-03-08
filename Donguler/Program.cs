@@ -29,7 +29,7 @@ namespace Donguler
 
             Console.WriteLine("For bitti");
 
-            // Foreach diziler için kullanılır
+            // Foreach diziler için kullanılır. Dizi temelli yapıları tek tek dönmeye yarıyor.
 
             foreach (string kurs in kurslar)
             {
